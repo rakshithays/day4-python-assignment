@@ -1,0 +1,31 @@
+islower()
+The islower() method returns True if all alphabets in a string are lowercase alphabets. If the string contains at least one uppercase alphabet, it returns False.
+
+The syntax of islower() is:
+
+string.islower()
+islower() parameters
+The islower() method doesn't take any parameters.
+
+Return Value from islower()
+The islower() method returns:
+
+True if all alphabets that exist in the string are lowercase alphabets.
+False if the string contains at least one uppercase alphabet.
+
+
+
+isupper()
+The string isupper() method returns whether or not all characters in a string are uppercased or not.
+
+The syntax of isupper() method is:
+
+string.isupper()
+String isupper() Parameters
+The isupper() method doesn't take any parameters.
+
+Return value from String isupper() 
+The isupper() method returns:
+
+True if all characters in a string are uppercase characters
+False if any characters in a string are lowercase characters
